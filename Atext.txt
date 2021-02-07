@@ -1,0 +1,5 @@
+A OYUNCUSUNUN :
+a konum:[[1, 0], [2, 0], [2, 1], [1, 1], [3, 5]]
+a harcanan altin:610
+a toplanan altin:15
+a kasadaki altin:15
